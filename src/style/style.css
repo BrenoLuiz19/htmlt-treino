@@ -1,0 +1,50 @@
+  body{
+    background-color: #F3F2F1;
+    
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hea{
+    border-style: solid;
+    text-align: center;
+    border-color: #808080;
+    height: 50px;
+    background-color: blanchedalmond;
+    font-size: 28px;
+    box-shadow: 0px 0px 20px #000000;
+    
+    
+}
+
+
+
+h1{
+    color: #993399 ;
+}
+
+#sli{
+    color: #993399 ;
+    
+}
+
+#txt{
+    color: #993399 ;
+}
+
+#map{
+    color: #993399 ;
+}
+
+h3{
+    color: #993399 ;
+}
+
+.hea a{
+    text-decoration: none;
+    color: #000000;
+}
+
